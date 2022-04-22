@@ -1,6 +1,6 @@
 # Next.js + Ethers.js starter template
 
-A boilerplate template for your next.js and ethers.js.
+A boilerplate template for your Next.js and Ethers.js dapp.
 
 ### Screenshots
 
